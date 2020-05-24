@@ -1,0 +1,666 @@
+﻿Company,Date,StockPrice,Revenue,Industry
+3m,0,175.63,0.1,conglomerates
+3m,0,165.58,0.1,conglomerates
+3m,0,162,0.1,conglomerates
+3m,1,162.51,0.1,conglomerates
+3m,1,158.66,0.1,conglomerates
+3m,1,156.59,0.1,conglomerates
+3m,1,157.24,0.1,conglomerates
+a.o. smith,0,43.81,0.35,water technology
+a.o. smith,0,45.49,0.35,water technology
+a.o. smith,0,44.31,0.35,water technology
+a.o. smith,1,43.45,0.35,water technology
+a.o. smith,1,42.69,0.35,water technology
+a.o. smith,1,42.28,0.35,water technology
+a.o. smith,1,42.79,0.35,water technology
+abbott laboratories,0,89.59,0.08,healthcare
+abbott laboratories,0,89.54,0.08,healthcare
+abbott laboratories,0,89.14,0.08,healthcare
+abbott laboratories,1,89.16,0.08,healthcare
+abbott laboratories,1,87.14,0.08,healthcare
+abbott laboratories,1,87.06,0.08,healthcare
+abbott laboratories,1,88.23,0.08,healthcare
+acacia communications,0,68.73,0.3,technology
+acacia communications,0,68.51,0.3,technology
+acacia communications,0,68.66,0.3,technology
+acacia communications,1,68.83,0.3,technology
+acacia communications,1,68.55,0.3,technology
+acacia communications,1,68.55,0.3,technology
+acacia communications,1,68.845,0.3,technology
+agilent technologies inc,0,86.56,0.21,technology
+agilent technologies inc,0,87.18,0.21,technology
+agilent technologies inc,0,87.24,0.21,technology
+agilent technologies inc,1,84.38,0.21,technology
+agilent technologies inc,1,82.56,0.21,technology
+agilent technologies inc,1,82.15,0.21,technology
+agilent technologies inc,1,83.52,0.21,technology
+air china,0,0.85,0.67,airlines
+air china,0,0.85,0.67,airlines
+air china,0,0.85,0.67,airlines
+air china,1,0.85,0.67,airlines
+air china,1,0.85,0.67,airlines
+air china,1,0.85,0.67,airlines
+air china,1,0.87,0.67,airlines
+alibaba,0,205.47,0.94,ecommerce
+alibaba,0,210.23,0.94,ecommerce
+alibaba,0,212.02,0.94,ecommerce
+alibaba,1,208.58,0.94,ecommerce
+alibaba,1,206.59,0.94,ecommerce
+alibaba,1,213.1,0.94,ecommerce
+alibaba,1,222.88,0.94,ecommerce
+alphabet,0,1431.73,0.07,technology
+alphabet,0,1450.5,0.07,technology
+alphabet,0,1456.7,0.07,technology
+alphabet,1,1454.25,0.07,technology
+alphabet,1,1432.78,0.07,technology
+alphabet,1,1482.6,0.07,technology
+alphabet,1,1445.41,0.07,technology
+amd,0,49.26,0.26,semiconductors
+amd,0,50.53,0.26,semiconductors
+amd,0,47.51,0.26,semiconductors
+amd,1,48.78,0.26,semiconductors
+amd,1,47,0.26,semiconductors
+amd,1,48.02,0.26,semiconductors
+amd,1,49.45,0.26,semiconductors
+american airlines,0,26.11,0.02,airlines
+american airlines,0,26.9,0.02,airlines
+american airlines,0,26.8,0.02,airlines
+american airlines,1,27.72,0.02,airlines
+american airlines,1,26.84,0.02,airlines
+american airlines,1,27.16,0.02,airlines
+american airlines,1,28.43,0.02,airlines
+amphenol corp,0,102.63,0.3,technology
+amphenol corp,0,103.41,0.3,technology
+amphenol corp,0,103.42,0.3,technology
+amphenol corp,1,101.87,0.3,technology
+amphenol corp,1,99.47,0.3,technology
+amphenol corp,1,99.95,0.3,technology
+amphenol corp,1,103.84,0.3,technology
+analog devices,0,112.21,0.17,semiconductors
+analog devices,0,114.31,0.17,semiconductors
+analog devices,0,113.23,0.17,semiconductors
+analog devices,1,112.37,0.17,semiconductors
+analog devices,1,109.75,0.17,semiconductors
+analog devices,1,110,0.17,semiconductors
+analog devices,1,112.46,0.17,semiconductors
+apple,0,308.95,0.15,technology
+apple,0,317.69,0.15,technology
+apple,0,324.34,0.15,technology
+apple,1,323.87,0.15,technology
+apple,1,309.51,0.15,technology
+apple,1,308.66,0.15,technology
+apple,1,318.85,0.15,technology
+applied materials,0,59.05,0.19,manufacturing
+applied materials,0,60.19,0.19,manufacturing
+applied materials,0,59.82,0.19,manufacturing
+applied materials,1,60.25,0.19,manufacturing
+applied materials,1,57.99,0.19,manufacturing
+applied materials,1,59.72,0.19,manufacturing
+applied materials,1,63.01,0.19,manufacturing
+aptiv plc,0,88.6,0.26,auto industry
+aptiv plc,0,89.64,0.26,auto industry
+aptiv plc,0,89.88,0.26,auto industry
+aptiv plc,1,87.68,0.26,auto industry
+aptiv plc,1,84.79,0.26,auto industry
+aptiv plc,1,86.72,0.26,auto industry
+aptiv plc,1,90.51,0.26,auto industry
+avery dennison,0,127.84,0.2,manufacturing
+avery dennison,0,129.21,0.2,manufacturing
+avery dennison,0,136.23,0.2,manufacturing
+avery dennison,1,136.11,0.2,manufacturing
+avery dennison,1,131.24,0.2,manufacturing
+avery dennison,1,133.98,0.2,manufacturing
+avery dennison,1,136.85,0.2,manufacturing
+baidu,0,126.28,1,technology
+baidu,0,126.93,1,technology
+baidu,0,126.47,1,technology
+baidu,1,125.47,1,technology
+baidu,1,123.56,1,technology
+baidu,1,130.49,1,technology
+baidu,1,131.47,1,technology
+bank of america,0,32.85,0.01,banking & financial services
+bank of america,0,33.24,0.01,banking & financial services
+bank of america,0,33.01,0.01,banking & financial services
+bank of america,1,33.48,0.01,banking & financial services
+bank of america,1,32.83,0.01,banking & financial services
+bank of america,1,32.97,0.01,banking & financial services
+bank of america,1,33.62,0.01,banking & financial services
+bank of china,0,0.4,0.99,banking & financial services
+bank of china,0,0.39,0.99,banking & financial services
+bank of china,0,0.4,0.99,banking & financial services
+bank of china,1,0.395,0.99,banking & financial services
+bank of china,1,0.3905,0.99,banking & financial services
+bank of china,1,0.3751,0.99,banking & financial services
+bank of china,1,0.405,0.99,banking & financial services
+bilibili,0,22.3,1,technology
+bilibili,0,22.41,1,technology
+bilibili,0,22.38,1,technology
+bilibili,1,21.26,1,technology
+bilibili,1,21.55,1,technology
+bilibili,1,23.04,1,technology
+bilibili,1,23.58,1,technology
+boeing,0,316.6,0.07,airlines
+boeing,0,316.56,0.07,airlines
+boeing,0,322.02,0.07,airlines
+boeing,1,323.3,0.07,airlines
+boeing,1,318.27,0.07,airlines
+boeing,1,316,0.07,airlines
+boeing,1,317.94,0.07,airlines
+broadcom,0,309.03,0.54,semiconductors
+broadcom,0,318.31,0.54,semiconductors
+broadcom,0,317.51,0.54,semiconductors
+broadcom,1,315.2,0.54,semiconductors
+broadcom,1,305.16,0.54,semiconductors
+broadcom,1,305.23,0.54,semiconductors
+broadcom,1,311.6,0.54,semiconductors
+cardinal health,0,53.38,0,healthcare
+cardinal health,0,53.8,0,healthcare
+cardinal health,0,53.74,0,healthcare
+cardinal health,1,53.29,0,healthcare
+cardinal health,1,51.21,0,healthcare
+cardinal health,1,51.26,0,healthcare
+cardinal health,1,51.59,0,healthcare
+china biological products,0,115.94,1,healthcare
+china biological products,0,116.1,1,healthcare
+china biological products,0,116.59,1,healthcare
+china biological products,1,116.17,1,healthcare
+china biological products,1,115.9,1,healthcare
+china biological products,1,115.93,1,healthcare
+china biological products,1,116,1,healthcare
+china eastern airline,0,22.4,0.99,airlines
+china eastern airline,0,22.84,0.99,airlines
+china eastern airline,0,23.29,0.99,airlines
+china eastern airline,1,23.03,0.99,airlines
+china eastern airline,1,22.79,0.99,airlines
+china eastern airline,1,23.16,0.99,airlines
+china eastern airline,1,23.6,0.99,airlines
+china life insurance,0,12.37,1,banking & financial services
+china life insurance,0,12.52,1,banking & financial services
+china life insurance,0,12.66,1,banking & financial services
+china life insurance,1,12.44,1,banking & financial services
+china life insurance,1,11.91,1,banking & financial services
+china life insurance,1,11.95,1,banking & financial services
+china life insurance,1,12.31,1,banking & financial services
+china mengniu diary,0,41.9,0.98,food
+china mengniu diary,0,41.9,0.98,food
+china mengniu diary,0,41.9,0.98,food
+china mengniu diary,1,37.98,0.98,food
+china mengniu diary,1,37.98,0.98,food
+china mengniu diary,1,37.98,0.98,food
+china mengniu diary,1,38.93,0.98,food
+china online education group,0,14.11,1,education
+china online education group,0,14.27,1,education
+china online education group,0,14.18,1,education
+china online education group,1,14.18,1,education
+china online education group,1,13.65,1,education
+china online education group,1,13.02,1,education
+china online education group,1,14.41,1,education
+cigna,0,199.95,0.09,healthcare
+cigna,0,205.33,0.09,healthcare
+cigna,0,202.54,0.09,healthcare
+cigna,1,196.99,0.09,healthcare
+cigna,1,192.38,0.09,healthcare
+cigna,1,191.77,0.09,healthcare
+cigna,1,196.86,0.09,healthcare
+cisco,0,47.47,0.16,technology
+cisco,0,47.77,0.16,technology
+cisco,0,47.05,0.16,technology
+cisco,1,47.24,0.16,technology
+cisco,1,45.97,0.16,technology
+cisco,1,46.53,0.16,technology
+cisco,1,47.62,0.16,technology
+citigroup,0,76.71,0.01,banking & financial services
+citigroup,0,77.24,0.01,banking & financial services
+citigroup,0,76.48,0.01,banking & financial services
+citigroup,1,77.43,0.01,banking & financial services
+citigroup,1,74.41,0.01,banking & financial services
+citigroup,1,75.13,0.01,banking & financial services
+citigroup,1,76.5,0.01,banking & financial services
+coca cola,0,57.48,0.09,food
+coca cola,0,57.01,0.09,food
+coca cola,0,57.01,0.09,food
+coca cola,1,58.86,0.09,food
+coca cola,1,58.4,0.09,food
+coca cola,1,58.58,0.09,food
+coca cola,1,58.84,0.09,food
+corning inc,0,28.56,0.22,manufacturing
+corning inc,0,28,0.22,manufacturing
+corning inc,0,28.35,0.22,manufacturing
+corning inc,1,27.69,0.22,manufacturing
+corning inc,1,26.69,0.22,manufacturing
+corning inc,1,26.91,0.22,manufacturing
+corning inc,1,27.58,0.22,manufacturing
+costco wholesale,0,309.45,0,consumer retail
+costco wholesale,0,310.85,0,consumer retail
+costco wholesale,0,309.58,0,consumer retail
+costco wholesale,1,309.47,0,consumer retail
+costco wholesale,1,305.52,0,consumer retail
+costco wholesale,1,302,0,consumer retail
+costco wholesale,1,304.9,0,consumer retail
+cummins inc,0,164.77,0.11,manufacturing
+cummins inc,0,166.08,0.11,manufacturing
+cummins inc,0,165.69,0.11,manufacturing
+cummins inc,1,166.1,0.11,manufacturing
+cummins inc,1,159.97,0.11,manufacturing
+cummins inc,1,162.89,0.11,manufacturing
+cummins inc,1,161,0.11,manufacturing
+dell,0,48.15,0.3,technology
+dell,0,48.68,0.3,technology
+dell,0,48.95,0.3,technology
+dell,1,49.38,0.3,technology
+dell,1,48.77,0.3,technology
+dell,1,49.18,0.3,technology
+dell,1,51.03,0.3,technology
+delta airlines,0,56.83,0.04,airlines
+delta airlines,0,57.48,0.04,airlines
+delta airlines,0,56.65,0.04,airlines
+delta airlines,1,57.1,0.04,airlines
+delta airlines,1,55.74,0.04,airlines
+delta airlines,1,56.04,0.04,airlines
+delta airlines,1,57.93,0.04,airlines
+walt disney,0,135.9,0.11,media & entertainment
+walt disney,0,138.37,0.11,media & entertainment
+walt disney,0,136.06,0.11,media & entertainment
+walt disney,1,137.81,0.11,media & entertainment
+walt disney,1,138.31,0.11,media & entertainment
+walt disney,1,141.32,0.11,media & entertainment
+walt disney,1,144.73,0.11,media & entertainment
+estee lauder,0,196.99,0.17,fashion
+estee lauder,0,197.11,0.17,fashion
+estee lauder,0,198.73,0.17,fashion
+estee lauder,1,198.67,0.17,fashion
+estee lauder,1,195.16,0.17,fashion
+estee lauder,1,196.2,0.17,fashion
+estee lauder,1,200.42,0.17,fashion
+facebook,0,214.87,0.1,media & entertainment
+facebook,0,217.79,0.1,media & entertainment
+facebook,0,223.23,0.1,media & entertainment
+facebook,1,209.53,0.1,media & entertainment
+facebook,1,201.91,0.1,media & entertainment
+facebook,1,204.19,0.1,media & entertainment
+facebook,1,209.83,0.1,media & entertainment
+fedex,0,148.49,0.02,courier
+fedex,0,148.4,0.02,courier
+fedex,0,148.06,0.02,courier
+fedex,1,148.26,0.02,courier
+fedex,1,144.64,0.02,courier
+fedex,1,143.84,0.02,courier
+fedex,1,147.51,0.02,courier
+ford motor,0,8.89,0.01,auto industry
+ford motor,0,8.97,0.01,auto industry
+ford motor,0,8.86,0.01,auto industry
+ford motor,1,8.84,0.01,auto industry
+ford motor,1,8.82,0.01,auto industry
+ford motor,1,8.98,0.01,auto industry
+ford motor,1,9.18,0.01,auto industry
+general electric,0,11.44,0.2,auto industry
+general electric,0,11.73,0.2,auto industry
+general electric,0,12.94,0.2,auto industry
+general electric,1,12.73,0.2,auto industry
+general electric,1,12.45,0.2,auto industry
+general electric,1,12.26,0.2,auto industry
+general electric,1,12.58,0.2,auto industry
+general motors,0,33.41,0.4,conglomerates
+general motors,0,33.64,0.4,conglomerates
+general motors,0,33.6,0.4,conglomerates
+general motors,1,33.33,0.4,conglomerates
+general motors,1,33.39,0.4,conglomerates
+general motors,1,33.72,0.4,conglomerates
+general motors,1,34.37,0.4,conglomerates
+goldman sachs,0,238.14,0.17,banking & financial services
+goldman sachs,0,242.58,0.17,banking & financial services
+goldman sachs,0,240.12,0.17,banking & financial services
+goldman sachs,1,244.13,0.17,banking & financial services
+goldman sachs,1,237.75,0.17,banking & financial services
+goldman sachs,1,239.01,0.17,banking & financial services
+goldman sachs,1,241.94,0.17,banking & financial services
+home depot,0,231.19,0.02,consumer retail
+home depot,0,233.86,0.02,consumer retail
+home depot,0,234.02,0.02,consumer retail
+home depot,1,232.79,0.02,consumer retail
+home depot,1,228.1,0.02,consumer retail
+home depot,1,231.54,0.02,consumer retail
+home depot,1,235,0.02,consumer retail
+honeywell international,0,173.54,0.07,conglomerates
+honeywell international,0,175.46,0.07,conglomerates
+honeywell international,0,175.67,0.07,conglomerates
+honeywell international,1,178.34,0.07,conglomerates
+honeywell international,1,173.22,0.07,conglomerates
+honeywell international,1,171.32,0.07,conglomerates
+honeywell international,1,175.21,0.07,conglomerates
+hp,0,21.58,0.25,technology
+hp,0,21.64,0.25,technology
+hp,0,21.43,0.25,technology
+hp,1,21.53,0.25,technology
+hp,1,21.32,0.25,technology
+hp,1,21.3,0.25,technology
+hp,1,21.55,0.25,technology
+hyatt,0,83.61,0.1,hospitality
+hyatt,0,84.76,0.1,hospitality
+hyatt,0,85.34,0.1,hospitality
+hyatt,1,85.92,0.1,hospitality
+hyatt,1,84.54,0.1,hospitality
+hyatt,1,85.95,0.1,hospitality
+hyatt,1,88.03,0.1,hospitality
+ibm,0,138.62,0.14,technology
+ibm,0,139.55,0.14,technology
+ibm,0,137.69,0.14,technology
+ibm,1,136.77,0.14,technology
+ibm,1,143.73,0.14,technology
+ibm,1,146.27,0.14,technology
+ibm,1,149.11,0.14,technology
+intel,0,65.69,0.28,semiconductors
+intel,0,67.31,0.28,semiconductors
+intel,0,66.33,0.28,semiconductors
+intel,1,66.47,0.28,semiconductors
+intel,1,63.93,0.28,semiconductors
+intel,1,64.42,0.28,semiconductors
+intel,1,65.46,0.28,semiconductors
+ipg photonics,0,134.67,0.44,manufacturing
+ipg photonics,0,136.69,0.44,manufacturing
+ipg photonics,0,130.07,0.44,manufacturing
+ipg photonics,1,131.13,0.44,manufacturing
+ipg photonics,1,127.67,0.44,manufacturing
+ipg photonics,1,140.29,0.44,manufacturing
+ipg photonics,1,140.29,0.44,manufacturing
+iqiyi,0,21.99,1,consumer services
+iqiyi,0,22.51,1,consumer services
+iqiyi,0,22.53,1,consumer services
+iqiyi,1,22.43,1,consumer services
+iqiyi,1,22.24,1,consumer services
+iqiyi,1,23.85,1,consumer services
+iqiyi,1,24.14,1,consumer services
+jd.com,0,37.65,1,consumer services
+jd.com,0,38.91,1,consumer services
+jd.com,0,39.14,1,consumer services
+jd.com,1,38.49,1,consumer services
+jd.com,1,37.69,1,consumer services
+jd.com,1,39.2,1,consumer services
+jd.com,1,40.35,1,consumer services
+johnson & johnson,0,148.75,0.2,healthcare
+johnson & johnson,0,149.5,0.2,healthcare
+johnson & johnson,0,150.54,0.2,healthcare
+johnson & johnson,1,150.36,0.2,healthcare
+johnson & johnson,1,148.87,0.2,healthcare
+johnson & johnson,1,150.17,0.2,healthcare
+johnson & johnson,1,151.6,0.2,healthcare
+kroger,0,28.33,0,food
+kroger,0,28.33,0,food
+kroger,0,27.45,0,food
+kroger,1,27.55,0,food
+kroger,1,26.86,0,food
+kroger,1,26.98,0,food
+kroger,1,27.39,0,food
+lenovo,0,0.70975,0.38,technology
+lenovo,0,0.7034,0.38,technology
+lenovo,0,0.7155,0.38,technology
+lenovo,1,0.665,0.38,technology
+lenovo,1,0.6525,0.38,technology
+lenovo,1,0.6555,0.38,technology
+lenovo,1,0.7,0.38,technology
+luckin coffee,0,37.12,1,food
+luckin coffee,0,39.61,1,food
+luckin coffee,0,37.87,1,food
+luckin coffee,1,36.4,1,food
+luckin coffee,1,32.49,1,food
+luckin coffee,1,31.35,1,food
+luckin coffee,1,36.24,1,food
+mcdonald,0,209.34,0.2,food
+mcdonald,0,210.39,0.2,food
+mcdonald,0,214.44,0.2,food
+mcdonald,1,216.18,0.2,food
+mcdonald,1,213.97,0.2,food
+mcdonald,1,215.18,0.2,food
+mcdonald,1,214.62,0.2,food
+merck,0,86.1,0.29,healthcare
+merck,0,86.25,0.29,healthcare
+merck,0,87.24,0.29,healthcare
+merck,1,86.5,0.29,healthcare
+merck,1,85.44,0.29,healthcare
+merck,1,87.34,0.29,healthcare
+merck,1,88.36,0.29,healthcare
+mettler-toledo international,0,799.88,0.16,manufacturing
+mettler-toledo international,0,799.95,0.16,manufacturing
+mettler-toledo international,0,802.62,0.16,manufacturing
+mettler-toledo international,1,777,0.16,manufacturing
+mettler-toledo international,1,757.18,0.16,manufacturing
+mettler-toledo international,1,758.06,0.16,manufacturing
+mettler-toledo international,1,768,0.16,manufacturing
+mgm resorts,0,30.35,0.2,hospitality
+mgm resorts,0,30.97,0.2,hospitality
+mgm resorts,0,31.27,0.2,hospitality
+mgm resorts,1,31.3,0.2,hospitality
+mgm resorts,1,31.06,0.2,hospitality
+mgm resorts,1,31.21,0.2,hospitality
+mgm resorts,1,32.25,0.2,hospitality
+microchip technology inc,0,102.98,0.32,semiconductors
+microchip technology inc,0,104.2,0.32,semiconductors
+microchip technology inc,0,102.46,0.32,semiconductors
+microchip technology inc,1,101.56,0.32,semiconductors
+microchip technology inc,1,97.48,0.32,semiconductors
+microchip technology inc,1,97.55,0.32,semiconductors
+microchip technology inc,1,101.71,0.32,semiconductors
+micron technology,0,55.41,0.51,semiconductors
+micron technology,0,56.47,0.51,semiconductors
+micron technology,0,55.3,0.51,semiconductors
+micron technology,1,55.03,0.51,semiconductors
+micron technology,1,53.09,0.51,semiconductors
+micron technology,1,53.78,0.51,semiconductors
+micron technology,1,55.5,0.51,semiconductors
+microsoft,0,162.28,0.02,technology
+microsoft,0,165.46,0.02,technology
+microsoft,0,168.04,0.02,technology
+microsoft,1,172.78,0.02,technology
+microsoft,1,170.23,0.02,technology
+microsoft,1,174.38,0.02,technology
+microsoft,1,180.12,0.02,technology
+netflix,0,342.88,0,media & entertainment
+netflix,0,348.52,0,media & entertainment
+netflix,0,343.16,0,media & entertainment
+netflix,1,347.74,0,media & entertainment
+netflix,1,345.09,0,media & entertainment
+netflix,1,358,0,media & entertainment
+netflix,1,369.01,0,media & entertainment
+nike,0,100.24,0.14,fashion
+nike,0,100.41,0.14,fashion
+nike,0,99.84,0.14,fashion
+nike,1,98.19,0.14,fashion
+nike,1,96.3,0.14,fashion
+nike,1,99.27,0.14,fashion
+nike,1,101.38,0.14,fashion
+nvidia,0,240.2,0.25,technology
+nvidia,0,247.97,0.25,technology
+nvidia,0,245.54,0.25,technology
+nvidia,1,245.81,0.25,technology
+nvidia,1,236.43,0.25,technology
+nvidia,1,240.33,0.25,technology
+nvidia,1,247.13,0.25,technology
+oracle,0,52.69,0.12,software & programming
+oracle,0,53.46,0.12,software & programming
+oracle,0,53.2,0.12,software & programming
+oracle,1,53.31,0.12,software & programming
+oracle,1,52.45,0.12,software & programming
+oracle,1,53.09,0.12,software & programming
+oracle,1,54.04,0.12,software & programming
+p&g,0,125.69,0.09,consumer services
+p&g,0,126.03,0.09,consumer services
+p&g,0,125.06,0.09,consumer services
+p&g,1,125.59,0.09,consumer services
+p&g,1,124.62,0.09,consumer services
+p&g,1,125.11,0.09,consumer services
+p&g,1,125.66,0.09,consumer services
+pepsico,0,142.14,0.03,food
+pepsico,0,142.44,0.03,food
+pepsico,0,141.73,0.03,food
+pepsico,1,143.83,0.03,food
+pepsico,1,142.02,0.03,food
+pepsico,1,142.51,0.03,food
+pepsico,1,143.22,0.03,food
+petro china,0,0.487,0.65,oil & gas
+petro china,0,0.487,0.65,oil & gas
+petro china,0,0.473,0.65,oil & gas
+petro china,1,0.4393,0.65,oil & gas
+petro china,1,0.453,0.65,oil & gas
+petro china,1,0.438,0.65,oil & gas
+petro china,1,0.452,0.65,oil & gas
+petro china company,0,46.12,1,oil & gas
+petro china company,0,46.02,1,oil & gas
+petro china company,0,45.86,1,oil & gas
+petro china company,1,45.36,1,oil & gas
+petro china company,1,44.01,1,oil & gas
+petro china company,1,43.08,1,oil & gas
+petro china company,1,43.93,1,oil & gas
+pfizer,0,40.16,0.2,healthcare
+pfizer,0,38.14,0.2,healthcare
+pfizer,0,37.58,0.2,healthcare
+pfizer,1,37.07,0.2,healthcare
+pfizer,1,37.24,0.2,healthcare
+pfizer,1,37.51,0.2,healthcare
+pfizer,1,37.69,0.2,healthcare
+philips,0,48.7,0.14,conglomerates
+philips,0,47.83,0.14,conglomerates
+philips,0,47.29,0.14,conglomerates
+philips,1,47.04,0.14,conglomerates
+philips,1,45.78,0.14,conglomerates
+philips,1,46.24,0.14,conglomerates
+philips,1,47.56,0.14,conglomerates
+pinduoduo,0,36.59,1,ecommerce
+pinduoduo,0,36.96,1,ecommerce
+pinduoduo,0,36.74,1,ecommerce
+pinduoduo,1,35.93,1,ecommerce
+pinduoduo,1,35.22,1,ecommerce
+pinduoduo,1,35.79,1,ecommerce
+pinduoduo,1,36.51,1,ecommerce
+qorvo,0,109.98,0.62,semiconductors
+qorvo,0,113.56,0.62,semiconductors
+qorvo,0,112.57,0.62,semiconductors
+qorvo,1,111.79,0.62,semiconductors
+qorvo,1,105.86,0.62,semiconductors
+qorvo,1,107.56,0.62,semiconductors
+qorvo,1,107.89,0.62,semiconductors
+qualcomm,0,87.05,0.48,semiconductors
+qualcomm,0,89.15,0.48,semiconductors
+qualcomm,0,88.23,0.48,semiconductors
+qualcomm,1,87.78,0.48,semiconductors
+qualcomm,1,85.31,0.48,semiconductors
+qualcomm,1,86.48,0.48,semiconductors
+qualcomm,1,88.93,0.48,semiconductors
+skyworks solutions,0,116.88,0.83,semiconductors
+skyworks solutions,0,119.79,0.83,semiconductors
+skyworks solutions,0,117.89,0.83,semiconductors
+skyworks solutions,1,116.23,0.83,semiconductors
+skyworks solutions,1,113.15,0.83,semiconductors
+skyworks solutions,1,115.03,0.83,semiconductors
+skyworks solutions,1,117.96,0.83,semiconductors
+southwest airlines,0,56.25,0,airlines
+southwest airlines,0,57.6,0,airlines
+southwest airlines,0,56.89,0,airlines
+southwest airlines,1,55.83,0,airlines
+southwest airlines,1,54.98,0,airlines
+southwest airlines,1,55.22,0,airlines
+southwest airlines,1,55.68,0,airlines
+sptjf,0,0.26,0.01,oil & gas
+sptjf,0,0.26,0.01,oil & gas
+sptjf,0,0.26,0.01,oil & gas
+sptjf,1,0.26,0.01,oil & gas
+sptjf,1,0.26,0.01,oil & gas
+sptjf,1,0.26,0.01,oil & gas
+sptjf,1,0.26,0.01,oil & gas
+starbucks,0,88.73,0.1,food
+starbucks,0,88.6,0.1,food
+starbucks,0,86.72,0.1,food
+starbucks,1,85.84,0.1,food
+starbucks,1,84.83,0.1,food
+starbucks,1,86.01,0.1,food
+starbucks,1,88.38,0.1,food
+te connectivity,0,96.84,0.18,manufacturing
+te connectivity,0,98.1,0.18,manufacturing
+te connectivity,0,98.07,0.18,manufacturing
+te connectivity,1,95.82,0.18,manufacturing
+te connectivity,1,92.18,0.18,manufacturing
+te connectivity,1,94,0.18,manufacturing
+te connectivity,1,95.33,0.18,manufacturing
+texas instruments,0,126.31,0.44,semiconductors
+texas instruments,0,128.04,0.44,semiconductors
+texas instruments,0,125.49,0.44,semiconductors
+texas instruments,1,124.42,0.44,semiconductors
+texas instruments,1,120.65,0.44,semiconductors
+texas instruments,1,123.4,0.44,semiconductors
+texas instruments,1,126.47,0.44,semiconductors
+vail resorts,0,238.49,0,hospitality
+vail resorts,0,236.64,0,hospitality
+vail resorts,0,236.75,0,hospitality
+vail resorts,1,237.09,0,hospitality
+vail resorts,1,234.51,0,hospitality
+vail resorts,1,235.31,0,hospitality
+vail resorts,1,238.34,0,hospitality
+vipshop,0,13.17,1,consumer services
+vipshop,0,13.23,1,consumer services
+vipshop,0,13.26,1,consumer services
+vipshop,1,12.91,1,consumer services
+vipshop,1,12.73,1,consumer services
+vipshop,1,12.9,1,consumer services
+vipshop,1,13.34,1,consumer services
+walgreens boots alliance,0,52.23,0,healthcare
+walgreens boots alliance,0,52.78,0,healthcare
+walgreens boots alliance,0,52.28,0,healthcare
+walgreens boots alliance,1,51.95,0,healthcare
+walgreens boots alliance,1,50.85,0,healthcare
+walgreens boots alliance,1,50.95,0,healthcare
+walgreens boots alliance,1,52.34,0,healthcare
+walmart,0,115.86,0.01,consumer retail
+walmart,0,116.6,0.01,consumer retail
+walmart,0,115.89,0.01,consumer retail
+walmart,1,116.58,0.01,consumer retail
+walmart,1,114.49,0.01,consumer retail
+walmart,1,114.27,0.01,consumer retail
+walmart,1,115.27,0.01,consumer retail
+western digital,0,66.66,0.22,technology
+western digital,0,68.41,0.22,technology
+western digital,0,66.76,0.22,technology
+western digital,1,66.96,0.22,technology
+western digital,1,65.5,0.22,technology
+western digital,1,67.24,0.22,technology
+western digital,1,68.43,0.22,technology
+whirlpool,0,148.23,0.27,consumer retail
+whirlpool,0,156.67,0.27,consumer retail
+whirlpool,0,154.1,0.27,consumer retail
+whirlpool,1,152.79,0.27,consumer retail
+whirlpool,1,146.17,0.27,consumer retail
+whirlpool,1,147.15,0.27,consumer retail
+whirlpool,1,150.16,0.27,consumer retail
+wynn resorts,0,123.89,0.73,hospitality
+wynn resorts,0,124.97,0.73,hospitality
+wynn resorts,0,123.85,0.73,hospitality
+wynn resorts,1,126.62,0.73,hospitality
+wynn resorts,1,126.16,0.73,hospitality
+wynn resorts,1,128.58,0.73,hospitality
+wynn resorts,1,132.7,0.73,hospitality
+xiaomi corp,0,1.6,0.72,technology
+xiaomi corp,0,1.64,0.72,technology
+xiaomi corp,0,1.61,0.72,technology
+xiaomi corp,1,1.53,0.72,technology
+xiaomi corp,1,1.48,0.72,technology
+xiaomi corp,1,1.57,0.72,technology
+xiaomi corp,1,1.64,0.72,technology
+xilinx inc,0,97,0.25,technology
+xilinx inc,0,98.61,0.25,technology
+xilinx inc,0,88.06,0.25,technology
+xilinx inc,1,87.2,0.25,technology
+xilinx inc,1,84.48,0.25,technology
+xilinx inc,1,85.05,0.25,technology
+xilinx inc,1,85.78,0.25,technology
+yum china,0,41.92,1,food
+yum china,0,45.05,1,food
+yum china,0,45.01,1,food
+yum china,1,44,1,food
+yum china,1,43.07,1,food
+yum china,1,43.12,1,food
+yum china,1,44.31,1,food
+zto express,0,22.21,1,courier
+zto express,0,22.27,1,courier
+zto express,0,22.42,1,courier
+zto express,1,22,1,courier
+zto express,1,21.72,1,courier
+zto express,1,22.18,1,courier
+zto express,1,23.23,1,courier
