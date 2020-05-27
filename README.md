@@ -1,6 +1,8 @@
 # PHEIC Causal Project
 This is a repository on the causal analysis of the impact PHEIC having on China's economic outlook
 
+![200417125229-01-coronavirus-cdc-image-super-tease](https://user-images.githubusercontent.com/44275206/82979238-8efb8780-9fb4-11ea-8553-0440ac0040c7.jpg)
+
 
 # Project Description
 According to Wikipedia, a Public Health Emergency of International Concern (PHEIC) is a formal declaration by the 
