@@ -19,7 +19,6 @@ Thus our project aims to discover whether there is any causality between PHEIC a
 countries and regions.
 
 # Experiment Design
-
 As the issuance of PHEIC is in the middle of the spreading epidemic, it could be
 difficult to isolate the effect of PHEIC on economic outlook from the effect of the
 epidemic and other factors that potentially influence the economy in the long run.
@@ -39,3 +38,78 @@ Therefore, we would use a difference-in-differences model. We will select the co
 after the issuance on PHEIC for Covid-19 - the date for issuance of PHEIC is January
 30.
 
+# Study Design & Methodology
+As China was the most severely infected country when WHO issued the PHEIC on Jan
+30th, 2020, our analysis focuses on assessing the impact of PHEIC on China.
+
+The ideal experiment to answer our problem statement is to observe the stock prices
+of selected companies when PHEIC is issued compared to the same companies when
+PHEIC is not issued. However, such an experiment is not possible since the event of
+the issuance of PHEIC has already happened.
+
+Moreover, such events (issuance of PHEIC) are rare so it is difficult to find other
+similar events having other variables ceteris paribus. Therefore we would use a
+difference-in-differences model. We will select the companies 3 days before and
+after the issuance on PHEIC for Covid-19. The date for issuance of PHEIC is January
+30 and that time COVID-19 was in China. Instead of dividing data into two separate
+groups - one having significant revenue from China and other not having not
+significant revenue from China - we have considered our treatment variable i.e.
+revenue from China as a continuous variable. By adopting this methodology, we did
+not have to choose the cut-off baseline for revenue to decide on the treatment and
+control groups. Further, we would also repeat our difference-in-difference analysis
+for specific industries such as food and healthcare separately to study the effects in
+particular industries.
+
+# Data Collection, Munging & Description
+According to our study design, there are two primary data points we require - stock
+prices and the companies’ percentage of revenue from China. We have collected
+data for 95 companies using the following sources:
+
+- We used NASDAQ’s official website for collecting the stock prices of
+companies. These websites have historical day-to-day stock price data for
+companies listed on stock exchanges.
+
+- We estimated the companies’ percentage of revenue from China based on its
+past financial reports and articles. For example, as per the financial report
+released by Apple on 28th Jan 2020, Apple's reported revenue in Greater
+China is 13 billion which accounts for 14.8% of Apple's total revenue ($91.9
+billion).
+
+
+The data we have can be categorized as panel data which is essentially
+multi-dimensional data involving measurements over time . To help us better control
+the heterogeneity of cross-section units (different companies for example), we chose
+to use a Panel OLS to estimate the fixed effects regression. The companies and the
+actual dates are treated as fixed variables in the panel OLS regression.
+We have treated Stock Price as the dependent variable while companies and the
+actual dates as the Entity variables. We have included an interaction between the
+percentage revenue (the continuous treatment variable) and the Pre-Post PHEIC
+declaration dummy.
+
+# Final Model
+We used a difference-in-differences (DID) model for our final analysis. DID relies on
+an assumption that in the absence of treatment, the unobserved differences
+between treatment and control groups are the same overtime. Hence, we tested for
+parallel trends between the treated and control groups before the treatment. Since
+percentage revenue is a continuous treatment variable, we chose a threshold of 40
+percent revenue from China to divide the data into treatment and control groups
+only for the parallel trend analysis. In figure 1, a clear parallel trend can be noticed in
+between the two groups before the treatment.
+
+
+
+# Conclusion
+The results from this difference-in-difference model show that there is no significant
+effect of the issuance of PHEIC on stock prices of the 95 companies. Therefore, it
+implies that PHEIC has no impact on downgrading the economic outlook when we
+look at all industries together. The fact that the model considers all companies from
+different industries is not useful to explain the causal effect of the issuance of PHEIC.
+But when looking at the specific industries, we did find that the issuance of PHEIC
+impacts the stock prices implying that it impacts the economic outlook for specific
+industries. The healthcare industry benefited from the PHEIC issuance while other
+industries such as the food industry were negatively impacted. However, we are
+aware that there is a limitation to our study and we need to include a larger sample
+size in each industry. Moreover, there could be many other factors that might not
+have been factored in our analysis. For example, the stock prices of companies may
+already have factored the effect of the pandemic and therefore the issuance of
+PHEIC did not make any significant effect on stock prices.
