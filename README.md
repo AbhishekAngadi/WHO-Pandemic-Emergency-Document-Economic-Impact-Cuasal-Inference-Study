@@ -75,17 +75,6 @@ released by Apple on 28th Jan 2020, Apple's reported revenue in Greater
 China is 13 billion which accounts for 14.8% of Apple's total revenue ($91.9
 billion).
 
-
-The data we have can be categorized as panel data which is essentially
-multi-dimensional data involving measurements over time . To help us better control
-the heterogeneity of cross-section units (different companies for example), we chose
-to use a Panel OLS to estimate the fixed effects regression. The companies and the
-actual dates are treated as fixed variables in the panel OLS regression.
-We have treated Stock Price as the dependent variable while companies and the
-actual dates as the Entity variables. We have included an interaction between the
-percentage revenue (the continuous treatment variable) and the Pre-Post PHEIC
-declaration dummy.
-
 # Final Model
 We used a difference-in-differences (DID) model for our final analysis. DID relies on
 an assumption that in the absence of treatment, the unobserved differences
@@ -96,6 +85,17 @@ percent revenue from China to divide the data into treatment and control groups
 only for the parallel trend analysis. In figure 1, a clear parallel trend can be noticed in
 between the two groups before the treatment.
 
+![Capture](https://user-images.githubusercontent.com/44275206/82992044-9595f900-9fcc-11ea-9e73-4383c8ba9cfc.JPG)
+
+The data we have can be categorized as panel data which is essentially
+multi-dimensional data involving measurements over time . To help us better control
+the heterogeneity of cross-section units (different companies for example), we chose
+to use a Panel OLS to estimate the fixed effects regression. The companies and the
+actual dates are treated as fixed variables in the panel OLS regression.
+We have treated Stock Price as the dependent variable while companies and the
+actual dates as the Entity variables. We have included an interaction between the
+percentage revenue (the continuous treatment variable) and the Pre-Post PHEIC
+declaration dummy.
 
 
 # Conclusion
